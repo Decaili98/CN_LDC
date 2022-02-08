@@ -8,13 +8,13 @@
 3.  胶囊网络综述   https://blog.csdn.net/weixin_42182910/article/details/94735837
   
 #### 相关论文
-[1]   Hinton, Geoffrey E. , A. Krizhevsky , and S. D. Wang . "Transforming Auto-encoders." Artificial Neural Networks & Machine Learning-icann -international Conference on Artificial Neural Networks Springer, Berlin, Heidelberg, 2011.
-[2]   Sabour, Sara , N. Frosst , and G. E. Hinton . "Dynamic Routing Between Capsules." (NIPS 2017).
-[3]   Hinton, Geoffrey E., Sara Sabour, and Nicholas Frosst. "Matrix capsules with EM routing." international conference on learning representations (2018).
-[4]   Patrick, Mensah Kwabena , et al. "Capsule Networks – A survey." (2019).
-[5]   Kosiorek A R , Sabour S , Teh Y W , et al. Stacked Capsule Autoencoders[J]. NIPS 2019.
-[6]   Rajasegaran, J. , Jayasundara, V. , Jayasekara, S. , Jayasekara, H. , Seneviratne, S. , & Rodrigo, R. . (CVPR 2019). Deepcaps: going deeper with capsule networks.
-[7]   Bruce McIntosh, Kevin Duarte, Yogesh S Rawat, Mubarak Shah. (CVPR 2020). Visual-Textual Capsule Routing for Text-Based Video Segmentation. 
+1.  Hinton, Geoffrey E. , A. Krizhevsky , and S. D. Wang . "Transforming Auto-encoders." Artificial Neural Networks & Machine Learning-icann -international Conference on Artificial Neural Networks Springer, Berlin, Heidelberg, 2011.
+2.  Sabour, Sara , N. Frosst , and G. E. Hinton . "Dynamic Routing Between Capsules." (NIPS 2017).
+3.  Hinton, Geoffrey E., Sara Sabour, and Nicholas Frosst. "Matrix capsules with EM routing." international conference on learning representations (2018).
+4.  Patrick, Mensah Kwabena , et al. "Capsule Networks – A survey." (2019).
+5.  Kosiorek A R , Sabour S , Teh Y W , et al. Stacked Capsule Autoencoders[J]. NIPS 2019.
+6.  Rajasegaran, J. , Jayasundara, V. , Jayasekara, S. , Jayasekara, H. , Seneviratne, S. , & Rodrigo, R. . (CVPR 2019). Deepcaps: going deeper with capsule networks.
+7.  Bruce McIntosh, Kevin Duarte, Yogesh S Rawat, Mubarak Shah. (CVPR 2020). Visual-Textual Capsule Routing for Text-Based Video Segmentation. 
 
 #### 基本环境配置
 Windows CPU i7 Tensorflow 2.4.0 Keras 2.2.4 
